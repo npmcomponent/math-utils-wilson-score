@@ -1,26 +1,8 @@
 {
-  "name": "wilson-score",
+  "name": "math-utils-wilson-score",
   "description": "Because averages suck",
   "version": "0.0.2",
-  "author": {
-    "name": "Jonathan Ong",
-    "email": "me@jongleberry.com",
-    "url": "http://jongleberry.com",
-    "twitter": "https://twitter.com/jongleberry"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/math-utils/wilson-score.git"
-  },
-  "bugs": {
-    "mail": "me@jongleberry.com",
-    "url": "https://github.com/math-utils/wilson-score/issues"
-  },
-  "devDependencies": {
-    "mocha": "*"
-  },
-  "scripts": {
-    "test": "make test;"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }

@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [math-utils/wilson-score](http://github.com/math-utils/wilson-score). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/math-utils-wilson-score`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Wilson Score [![Build Status](https://travis-ci.org/math-utils/wilson-score.png)](https://travis-ci.org/math-utils/wilson-score)
 
 Calculates the lower bound of the [binomial proportion confidence interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval) as calculated by the [Wilson score interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Wilson_score_interval).
